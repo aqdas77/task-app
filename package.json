@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/lab": "^5.0.0-alpha.145",
+    "@mui/material": "^5.14.10",
+    "@mui/styled-engine-sc": "^5.14.10",
+    "@mui/x-date-pickers": "^6.15.0",
+    "dayjs": "^1.11.10",
+    "styled-components": "^5.3.11"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
